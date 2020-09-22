@@ -12,6 +12,6 @@
 - 🔭 专攻: 计算机视觉、目标跟踪、目标动作识别等AI领域 ✨
 - 🚀 学习: 准备投身于Java生态体系, 转行开发工程师，学习诸如JVM, SpringBoot, 当然也少不了MySQL, Redis, MongoDB, ES等等  🍗
 - 📫 博文: [知乎](https://www.zhihu.com/people/mo-ming-qi-miao-50-24) | [CSDN博客](https://blog.csdn.net/xiewenrui1996) | 同时也欢迎大家关注我的公众号『计算机视觉cv』 🔥
-- 💬 交流: 有任何问题咨询或者交流, 我都非常乐意, 联系方式wx:1341917538
+- 💬 交流: 有任何问题咨询或者交流, 我都非常乐意, 联系方式**微信:1341917538**
 - ⚡ 格言: 世上无难事，只要肯攀登.
 - 📫 How to reach me:邮箱：15797639728@163.com
